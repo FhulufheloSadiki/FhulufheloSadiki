@@ -1,18 +1,3 @@
-font=Playfair+Display&size=28&duration=3000&pause=800&color=6C4FF6&center=true&vCenter=true&width=600&lines=...
-
-Actually for GitHub dark/light, use a color that works both. 6C4FF6 works okay-ish. Let me use it.
-
-Stats cards: github-readme-stats.vercel.app
-
-Let me write it.
-
-Also add a "🦋" motif nod since their portfolio has butterflies. Nice touch — a butterfly divider.
-
-Let me produce the README.
-
-Here's a GitHub profile README that mirrors your portfolio's violet-and-teal look, ready to drop into your profile repo.
-
-markdown
 <!--
   ╔══════════════════════════════════════════════════════════════╗
   ║  FHULUFHELO FORTUNATE SADIKI — GitHub Profile README         ║
